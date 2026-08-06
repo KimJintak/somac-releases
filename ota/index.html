@@ -22,7 +22,10 @@
 </div>
 <script>
 // 캐시된 페이지가 옛 빌드를 설치하지 않도록, 링크는 여기서 만든다.
-fetch('latest.json', {cache: 'no-store'})
+// cache:'no-store' 는 **브라우저** 캐시만 건너뛴다 — Pages CDN(max-age=600)은
+// 그대로 맞아 한 빌드 뒤가 설치됐다(2026-08-06 실기: 38 배포 직후 37 설치).
+// URL 을 매번 바꾸면 CDN 도 새로 가져올 수밖에 없다.
+fetch('latest.json?ts=' + Date.now(), {cache: 'no-store'})
   .then(function (r) { return r.json(); })
   .then(function (d) {
     document.getElementById('v').textContent = 'v' + d.version + ' (빌드 ' + d.build + ')';
