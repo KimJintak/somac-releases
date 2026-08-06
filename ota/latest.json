@@ -1,7 +1,7 @@
 {
   "version": "1.0.22",
-  "build": 31,
-  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.22-31.ipa",
+  "build": 32,
+  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.22-32.ipa",
   "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest.xml",
-  "notes": "\uc5c5\ub370\uc774\ud2b8 \ud655\uc778 \ucf1c\uc9d0(dart-define \uc218\ub9ac) \u00b7 \ub9e4\ub2c8\ud398\uc2a4\ud2b8 Pages \uc774\uc804"
+  "notes": "\uc9c4\ub2e8 \ub85c\uadf8 flush"
 }
