@@ -7,15 +7,34 @@
       background:#0A0A0A;color:#fff;font:400 17px/1.5 -apple-system,BlinkMacSystemFont,sans-serif}
  .c{text-align:center;padding:32px;max-width:420px}
  h1{font-size:28px;font-weight:700;margin:0 0 8px}
- .v{color:#8E8E93;font-size:15px;margin-bottom:4px}
- .n{color:#8E8E93;font-size:15px;margin:16px 0 28px}
- a.btn{display:block;background:#0066CC;color:#fff;text-decoration:none;
+ .v{color:#8E8E93;font-size:15px}
+ .n{color:#8E8E93;font-size:15px;margin:16px 0 28px;min-height:1.5em}
+ a.btn,.btn{display:block;background:#0066CC;color:#fff;text-decoration:none;
        padding:16px 24px;border-radius:9999px;font-weight:600}
+ .btn[aria-disabled="true"]{background:#2C2C2E;color:#8E8E93}
  .hint{color:#636366;font-size:13px;margin-top:20px}
 </style></head><body><div class="c">
  <h1>SOMAC</h1>
- <div class="v">v1.0.22 (빌드 35)</div>
- <div class="n">캐시로 옛 빌드가 깔리던 문제 수리 (빌드별 매니페스트)</div>
- <a class="btn" href="itms-services://?action=download-manifest&amp;url=https://kimjintak.github.io/somac-releases/ota/manifest-35.xml">설치하기</a>
+ <div class="v" id="v">최신 버전 확인 중…</div>
+ <div class="n" id="n"></div>
+ <a class="btn" id="b" aria-disabled="true">잠시만요…</a>
  <div class="hint">사파리에서 열어야 합니다. 설치 후 홈 화면에서 실행하세요.</div>
-</div></body></html>
+</div>
+<script>
+// 캐시된 페이지가 옛 빌드를 설치하지 않도록, 링크는 여기서 만든다.
+fetch('latest.json', {cache: 'no-store'})
+  .then(function (r) { return r.json(); })
+  .then(function (d) {
+    document.getElementById('v').textContent = 'v' + d.version + ' (빌드 ' + d.build + ')';
+    document.getElementById('n').textContent = d.notes || '';
+    var b = document.getElementById('b');
+    b.href = d.ios_url;
+    b.removeAttribute('aria-disabled');
+    b.textContent = '설치하기';
+  })
+  .catch(function (e) {
+    document.getElementById('v').textContent = '최신 버전을 불러오지 못했어요';
+    document.getElementById('n').textContent = String(e);
+  });
+</script>
+</body></html>
