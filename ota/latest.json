@@ -1,7 +1,7 @@
 {
   "version": "1.0.24",
-  "build": 48,
-  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.24-48.ipa",
-  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-48.xml",
-  "notes": "AI \ub77c\uc6b0\ud305 \uc815\ucc45 \ubd84\ub9ac + \ub77c\uc6b0\ud305 \uad00\uce21(ai_route_traces) + Gemma \ucee8\ud14d\uc2a4\ud2b8 \uc608\uc0b0 \ucea1 (Adaptive AI Runtime P0)"
+  "build": 49,
+  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.24-49.ipa",
+  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-49.xml",
+  "notes": "AI \uc5f0\uacb0 \ud654\uba74(BYOA) + \ubca4\ub354 \ud504\ub86c\ud504\ud2b8 \uac1c\uc778\uc815\ubcf4 \ub9c8\uc2a4\ud0b9(\uc8fc\ubbfc\ubc88\ud638\u00b7\uce74\ub4dc\u00b7API\ud0a4) + \uc628\ub514\ubc14\uc774\uc2a4 \uc751\ub2f5 \uac80\uc99d \uac15\ud654 (Adaptive AI Runtime P1)"
 }
