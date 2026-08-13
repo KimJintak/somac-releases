@@ -1,7 +1,7 @@
 {
   "version": "1.0.24",
-  "build": 59,
-  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.24-59.ipa",
-  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-59.xml",
-  "notes": "P3 \uac1c\ubc1c \uc704\uc784 \uad6c\uc870 \uc804\ud658 \u2014 \uac1c\ubc1c \uc694\uccad\uc740 r2\uac00 Codex\uc5d0 \uc704\uc784(phase \ud45c\uc2dc\u00b7\ucde8\uc18c), AI \uc5f0\uacb0 \ud654\uba74 Codex\ub294 r2 \ud558\uc704 \uc0c1\ud0dc\ub85c, \ubcf4\uc548 \uc218\ub9ac(\uc694\uccad\uc790 \uaca9\ub9ac\u00b7\uc6d0\ubb38 \ub85c\uadf8 \uc81c\uac70, Codex \uc7ac\uac80\ud1a0 PASS)"
+  "build": 60,
+  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.24-60.ipa",
+  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-60.xml",
+  "notes": "\uac1c\ubc1c \uc694\uccad \ub9e4\uac1c\uce35 \uc6b0\ud68c \uc218\ub9ac \u2014 \uc758\ub3c4 \ubd84\ub958(Gemma)\uac00 \uac1c\ubc1c \uc704\uc784\uc744 \uac00\ub85c\ucc44\ub358 \ubc84\uadf8. \uc774\uc81c '\ud504\ub85c\uadf8\ub7a8 \ub9cc\ub4e4\uc5b4\uc918' \ub958\uac00 r2\u2192Codex\ub85c \uc704\uc784\ub429\ub2c8\ub2e4"
 }
