@@ -1,7 +1,7 @@
 {
   "version": "1.0.24",
-  "build": 70,
-  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.24-70.ipa",
-  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-70.xml",
-  "notes": "\ub3c4\uc11c\uad00 \uac80\uc0c9\uc774 \uc11c\uc7ac\u00b7\ub098\uc758 \uae30\ub85d(\uc601\uc0c1\ub178\ud2b8)\uae4c\uc9c0 \ubd05\ub2c8\ub2e4 \u2014 \uc870\ud55c\ubc94/\ubc29\uc0b0 \uc790\ub8cc\uac00 \uc774\uc81c \uac80\uc0c9\ub429\ub2c8\ub2e4"
+  "build": 71,
+  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.24-71.ipa",
+  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-71.xml",
+  "notes": "\ub3c4\uc11c\uad00 \uac80\uc0c9 \uc644\uacb0 \u2014 \uccab \uc751\ub2f5\ubd80\ud130 \uc704\ud0a4\u00b7\uae30\ub85d\u00b7\uc11c\uc7ac\ub97c \ubaa8\ub450 \ubd05\ub2c8\ub2e4"
 }
