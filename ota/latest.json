@@ -1,7 +1,7 @@
 {
   "version": "1.0.25",
-  "build": 93,
-  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.25-93.ipa",
-  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-93.xml",
-  "notes": "\uc2b9\uc778 \ube44\ubc88 \ucd08\uae30\ud654(FaceID \ubcf8\uc778 \ud655\uc778) + \ub300\ud654\ud615 \uc2b9\uc778 \ud750\ub984"
+  "build": 94,
+  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.25-94.ipa",
+  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-94.xml",
+  "notes": "\uc2b9\uc778 \ube44\ubc88: \uac00\ub824\uc9c4 \uc785\ub825 \ub2e4\uc774\uc5bc\ub85c\uadf8 (\ucc44\ud305\ucc3d \ud3c9\ubb38 \uc785\ub825 \uc81c\uac70)"
 }
