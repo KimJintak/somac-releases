@@ -1,7 +1,7 @@
 {
   "version": "1.0.25",
-  "build": 89,
-  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.25-89.ipa",
-  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-89.xml",
-  "notes": "\ube44\ubc88 \ubcc0\uacbd \uc2dc \uae30\uc874 \ube44\ubc88 \ud655\uc778 + \ud0a4 \ubcc0\uacbd \uc554\ud638\ud654 \ub3d9\uae30\ud654"
+  "build": 90,
+  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.25-90.ipa",
+  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-90.xml",
+  "notes": "r2 \uc9c1\uacb0 \uc8fc\uc18c \uc790\ub3d9 \uad50\uc815 (\uc8fd\uc740 \uc61b \uc8fc\uc18c \u2192 MagicDNS)"
 }
