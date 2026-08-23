@@ -1,7 +1,7 @@
 {
-  "version": "1.0.26",
-  "build": 100,
-  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.26-100.ipa",
-  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-100.xml",
-  "notes": "\uc6b4\ub3d9 \uc74c\uc545 \ud6c4\uc18d \u2014 \uc2dc\uc791 \ubc84\ud2bc \ud06c\uac8c(\uc800\uc7a5\uacfc \uc704\uce58 \uad50\uccb4), \ubaa9\ud45c \ub4f1\ub85d/\uc218\uc815\uc5d0 \uc6b4\ub3d9 \uc74c\uc545 \ub9c1\ud06c \ub4f1\ub85d(\ud65c\ub3d9 \uae30\ub85d \uc5f4\uba74 \uc790\ub3d9 \uc7ac\uc0dd)"
+  "version": "1.0.29",
+  "build": 103,
+  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.29-103.ipa",
+  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-103.xml",
+  "notes": "\uc74c\uc545 \uc7ac\uc0dd \uc548\uc815\ud654 \u2014 \ubaa8\ubc14\uc77c \ub808\uc774\uc544\uc6c3 \uc815\ub9ac\u00b7\uc74c\uc18c\uac70 \uc790\ub3d9 \ud574\uc81c (v1.0.29 \ub3d9\uc77c \ub0b4\uc6a9)"
 }
