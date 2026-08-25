@@ -1,7 +1,7 @@
 {
-  "version": "1.0.30",
-  "build": 113,
-  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.30-113.ipa",
-  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-113.xml",
-  "notes": "\uc77c\uc815 \uc870\ud68c \uc989\ub2f5 + \ube0c\ub9ac\ud551\uc744 CarPlay \ud654\uba74\uc5d0\uc11c"
+  "version": "1.0.31",
+  "build": 114,
+  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.31-114.ipa",
+  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-114.xml",
+  "notes": "v1.0.31 \u2014 mp3 \uc9c0\uc815\u00b7\ubaa9\ud45c\ubcc4 \ubbf8\ub514\uc5b4\u00b7\ubaa9\ud45c \ub3c4\ub2ec \uc815\uc9c0\u00b7\uc0ad\uc81c \uc218\ub9ac\u00b7CarPlay \uc77c\uc815/\ube0c\ub9ac\ud551"
 }
