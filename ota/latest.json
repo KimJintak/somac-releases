@@ -1,7 +1,7 @@
 {
   "version": "1.0.31",
-  "build": 119,
-  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.31-119.ipa",
-  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-119.xml",
-  "notes": "\uc571\ub0b4 \uacbd\ub85c \ube44\uad50 \uc9c0\ub3c4 + \ubc84\ud2bc \ubb34\ubc18\uc751 \uc218\ub9ac"
+  "build": 120,
+  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.31-120.ipa",
+  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-120.xml",
+  "notes": "\uacbd\ub85c \ube44\uad50 \uc9c0\ub3c4 \u2014 \uacbd\ub85c\ubcc4 \uc0c9 \uad6c\ubd84"
 }
