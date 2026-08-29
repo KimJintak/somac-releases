@@ -1,7 +1,7 @@
 {
   "version": "1.0.31",
-  "build": 136,
-  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.31-136.ipa",
-  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-136.xml",
-  "notes": "CarPlay \uacbd\ub85c \uc9c0\ub3c4 \uad6c\uae00\ub9f5\uc73c\ub85c \ud1b5\uc77c \u2014 \uacbd\ub85c \uc9c0\ub3c4 \ubcf4\uae30 = \ucc28\ub7c9 \ud654\uba74 \uad6c\uae00\ub9f5 \uc548\ub0b4(\uc8fc\uc720\uc18c\u00b7\ud734\uac8c\uc18c\ub294 \ucc28\ub7c9 \ud654\uba74 \uac80\uc0c9), \uc0c9\uae54 \ube44\uad50\ub294 \ud3f0 \uc790\ub3d9 \ud45c\uc2dc. \uc911\ubcf5 \ubc84\ud2bc \uc81c\uac70"
+  "build": 137,
+  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.31-137.ipa",
+  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-137.xml",
+  "notes": "\uc571\ub0b4 \uc9c0\ub3c4 \uad6c\uae00 \ub124\uc774\ud2f0\ube0c \uc804\ud658 1\ud638(\ud3f0 \uc0c9\uae54 \ube44\uad50 \uc9c0\ub3c4) \u2014 \ubca1\ud130\u00b7\ud68c\uc804\u00b7\uc2e4\uc2dc\uac04 \uad50\ud1b5. \ub370\uc2a4\ud06c\ud1b1\uc740 \uae30\uc874 \ud0c0\uc77c \uc9c0\ub3c4 \uc720\uc9c0"
 }
