@@ -1,7 +1,7 @@
 {
-  "version": "1.0.32",
-  "build": 150,
-  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.32-150.ipa",
-  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-150.xml",
-  "notes": "\uc774 \ud654\uba74\uc774 \ucc98\uc74c\uc73c\ub85c \uc790\ub3d9 \ud45c\uc2dc\ub410\ub2e4\uba74 \uc131\uacf5! (\uc5c5\ub370\uc774\ud2b8 \ubcc0\uacbd\uc0ac\ud56d \uae30\ub2a5 \uccab \uc815\uc0c1 \uc791\ub3d9) \u00b7 \uc2a4\ub9c8\ud2b8\ud648 \uc704\ud5d8 \ub3d9\uc791 \uc2b9\uc778 \uac8c\uc774\ud2b8(\ub3c4\uc5b4\ub77d=\ubcf5\ucc3d+Face ID) \u00b7 \uc2a4\ud0ac \uacbd\uc720 \uae30\uae30 \uc81c\uc5b4 \uc548\uc804 \ubd09\ud569 \u00b7 \uc800\ub141 \ube0c\ub9ac\ud551 \ud6c4 \uc5c5\ubb34\uc77c\uc9c0 \uc790\ub3d9 \uc0dd\uc131 \u00b7 \ubaa9\ud45c \ucd94\uac00 \uc2dc \ucd94\ucc9c \ud50c\ub79c \ucc44\uc6b0\uae30"
+  "version": "1.0.33",
+  "build": 151,
+  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.33-151.ipa",
+  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-151.xml",
+  "notes": ""
 }
