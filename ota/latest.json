@@ -1,7 +1,7 @@
 {
   "version": "1.0.33",
-  "build": 158,
-  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.33-158.ipa",
-  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-158.xml",
-  "notes": "\uc815\uc9c0 \uc2dc\uc810 \uc2a4\ub0c5\uc0f7 \ubc1c\ud589 \u2014 \ucf00\uc5b4 \uc774\ubca4\ud2b8 4\uc885 \uc0bd\uc785 \ubd88\uac00 \uc218\ub9ac(1\uce35\u00b7\uc548\uc804) \u00b7 \ub3d9\uc758 \ud1a0\ud070 \ud3d0\uae30/\ubc1c\uae09 4\uac74 \u00b7 \uc774\ub3d9 \uae30\ub85d \uc870\ud68c \uc2e4\ud328\uac00 \u300c\uc5c6\uc74c\u300d\uc73c\ub85c \ub3c4\ucc29\ud558\ub358 3\ucd95 \u00b7 \uc6f9 3\uce35 UI \uc218\ub9ac. \uc8fc\uac04 \ud55c\ub3c4 \ub9ac\uc14b(9/8 18:59)\uae4c\uc9c0 \ud06c\ub8e8 \uc815\uc9c0."
+  "build": 159,
+  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.33-159.ipa",
+  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-159.xml",
+  "notes": "DTG \uc6b4\ud589 \uc694\uc57d\u00b7\ub77c\uc774\ud504\ub85c\uadf8 \ub0a0\uc9dc \uc774\ub3d9\u00b7\uba85\ud568\ucca9\u00b7\ub178\ud2b8 \uc800\uc7a5\u00b7\uc6b4\uc804\uc810\uc218 \ud45c\uc2dc \uc815\ud655\ub3c4 \uc218\uc815 (\uc2e4\ud328\ub97c 0/\uc5c6\uc74c\uc73c\ub85c \ubcf4\uc774\ub358 \uc790\ub9ac 8\uacf3)"
 }
