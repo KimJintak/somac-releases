@@ -1,7 +1,7 @@
 {
   "version": "1.0.34",
-  "build": 177,
-  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.34-177.ipa",
-  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-177.xml",
-  "notes": "[\uc774\ub3d9] \uc9c0\uae08 \uc774\ub3d9 \uce74\ub4dc\uc5d0 \uc2e4\uc2dc\uac04 \ub3c4\ucc29(\uc11c\uc6b8 \uc9c0\ud558\ucca0\u00b7TAGO \ubc84\uc2a4) \u00b7 \uc804\uad6d \uc815\ub958\uc7a5 \u00b7 \uc74c\uc131 \u00ab\ubc84\uc2a4/\uc9c0\ud558\ucca0 \uc5b8\uc81c \uc640\u00bb \u00b7 [CarPlay/\ucc28\ub7c9 Display] \uc2e0\ud638 \ud558\ub2e8 \ud589(\ub370\ubaa8 \ubaa8\ub4dc \u00b7 \ucc38\uace0\uc6a9) \u00b7 \uc5e3\uc9c0 \uc778\uc99d \ubcf4\uac15"
+  "build": 178,
+  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.34-178.ipa",
+  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-178.xml",
+  "notes": "[CarPlay] \ucc28\uc5d0\uc11c \ud3f0 \ud654\uba74\uc744 \uc548 \uc5f4\uc5b4\ub3c4 \uc2e0\ud638 \ubc30\ub108\u00b7\uc6b4\uc804 \ubaa8\ub4dc \uc790\ub3d9 \uc804\ud658\uc774 \ucf1c\uc9d1\ub2c8\ub2e4 \u00b7 [\uce98\ub9b0\ub354] \uad6c\uae00 \uc77c\uc815\uc774 \uc65c \uc548 \ub4e4\uc5b4\uc624\ub294\uc9c0 \ud654\uba74\u00b7\ub85c\uadf8\uc5d0 \uc0ac\uc2e4\ub300\ub85c \ud45c\uc2dc + \ubd80\ud305 1\ud68c \ub3d9\uae30\ud654(\uad6c\uae00 \uce98\ub9b0\ub354 \uc7ac\uc5f0\uacb0 1\ud68c \ud544\uc694) \u00b7 [\ub3c4\uc11c\uad00] \uc704\ud0a4 \uac74\uac15\uac80\uc9c4(\uace0\uc544\u00b7\ub204\ub77d\u00b7\uc815\ub9ac \ub300\uae30\u00b7\ubaa8\uc21c \ud6c4\ubcf4)"
 }
