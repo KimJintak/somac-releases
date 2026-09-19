@@ -1,9 +1,10 @@
 {
   "version": "1.0.34",
-  "build": 181,
-  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.34-181.ipa",
-  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-181.xml",
-  "notes": "[\uc2e0\ud638] CarPlay \uc2e0\ud638 \uc54c\ub9bc\uc774 \uc2e0\ud638\uac00 \ud754\ub4e4\ub9b4 \ub54c 10\ucd08\ub9c8\ub2e4 \ub2e4\uc2dc \ub728\ub358 \uac83\uc744 \uace0\ucce4\uc2b5\ub2c8\ub2e4 \u2014 \uac19\uc740 \uad50\ucc28\ub85c \uc548\uc5d0\uc11c \ubcf5\uad6c \uc7ac\uac8c\uc2dc\ub294 \ucd5c\ub300 2\ud68c\uae4c\uc9c0\ub9cc \ud558\uace0, \uadf8 \ub4a4\uc5d0\ub294 \uae30\uc874 5\ubd84 \uaddc\uce59\uc744 \ub530\ub985\ub2c8\ub2e4. \uc7ac\uc9c4\uc785 \uc54c\ub9bc \uc2dc\uacc4\ub3c4 \ubcf5\uad6c \ub54c\ubb38\uc5d0 \ubc00\ub9ac\uc9c0 \uc54a\uac8c \ubd84\ub9ac\ud588\uc2b5\ub2c8\ub2e4.",
-  "source_sha": "bd290adfffc8e1fb6cb46d11419401750028ff33",
-  "source_dirty": true
+  "build": 182,
+  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.34-182.ipa",
+  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-182.xml",
+  "notes": "\uc774\ub3d9 \uae30\ub85d\uc5d0\uc11c \uc5ed\u00b7\uc815\ub958\uc7a5\uc744 \ucc3e\uc544 \uace0\ub974\uba74 \ub3c4\ucc29 \uc815\ubcf4\uc640 \u00ab\ub0b4\uac00 \ub3c4\ucc29\ud588\uc744 \ub54c \ud0c8 \uc218 \uc788\ub294 \ud3b8\u00bb\uc774 \ub739\ub2c8\ub2e4. \ubc84\uc2a4 \uc815\ub958\uc7a5\ub3c4 \ucc3e\uc2b5\ub2c8\ub2e4. \u00ab\uc774 \ud3b8\uc73c\ub85c \uc54c\ub9bc\u00bb\ub3c4 \uc774\ub3d9 \ud0ed\uc5d0\uc11c \uac78 \uc218 \uc788\uc5b4\uc694.",
+  "source_sha": "efed5dc836711f076ff52a4a669db8677a834b1d",
+  "source_dirty": true,
+  "source_dirty_paths": ["ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved", "ios/Runner.xcworkspace/xcshareddata/swiftpm/Package.resolved", "pubspec.yaml"]
 }
