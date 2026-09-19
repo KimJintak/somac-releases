@@ -1,10 +1,10 @@
 {
   "version": "1.0.34",
-  "build": 182,
-  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.34-182.ipa",
-  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-182.xml",
-  "notes": "\uc774\ub3d9 \uae30\ub85d\uc5d0\uc11c \uc5ed\u00b7\uc815\ub958\uc7a5\uc744 \ucc3e\uc544 \uace0\ub974\uba74 \ub3c4\ucc29 \uc815\ubcf4\uc640 \u00ab\ub0b4\uac00 \ub3c4\ucc29\ud588\uc744 \ub54c \ud0c8 \uc218 \uc788\ub294 \ud3b8\u00bb\uc774 \ub739\ub2c8\ub2e4. \ubc84\uc2a4 \uc815\ub958\uc7a5\ub3c4 \ucc3e\uc2b5\ub2c8\ub2e4. \u00ab\uc774 \ud3b8\uc73c\ub85c \uc54c\ub9bc\u00bb\ub3c4 \uc774\ub3d9 \ud0ed\uc5d0\uc11c \uac78 \uc218 \uc788\uc5b4\uc694.",
-  "source_sha": "efed5dc836711f076ff52a4a669db8677a834b1d",
+  "build": 184,
+  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.34-184.ipa",
+  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-184.xml",
+  "notes": "\uc774\ub3d9 \uae30\ub85d \ud654\uba74 \uc544\ub798\uac00 \uc798\ub9ac\ub358 \uac83(\ub178\ub780 \uc904\ubb34\ub2ac)\uc744 \uace0\ucce4\uc2b5\ub2c8\ub2e4. \uc704\uce58\ub97c \ubabb \uc7a1\uc558\uc744 \ub54c \u00ab\uc7a0\uc2dc \ud6c4 \ub2e4\uc2dc\u00bb\ub77c\uace0\ub9cc \ud558\ub358 \uc548\ub0b4\uc5d0 \u00ab\uad8c\ud55c\uc774 \uaebc\uc838 \uc788\uc73c\uba74 \uae30\ub2e4\ub824\ub3c4 \uc548 \ub3fc\uc694\u00bb\uc640 \uc124\uc815 \uc5f4\uae30\ub97c \ub354\ud588\uc2b5\ub2c8\ub2e4.",
+  "source_sha": "0edb3abba13efe3c10d681aaebd9bcd6f4d80bf4",
   "source_dirty": true,
   "source_dirty_paths": ["ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved", "ios/Runner.xcworkspace/xcshareddata/swiftpm/Package.resolved", "pubspec.yaml"]
 }
