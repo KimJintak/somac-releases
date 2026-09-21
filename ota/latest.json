@@ -1,10 +1,10 @@
 {
   "version": "1.0.34",
-  "build": 187,
-  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.34-187.ipa",
-  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-187.xml",
-  "notes": "CarPlay \uac00 \ud1b5\uc9f8\ub85c \uc548 \ub728\ub358 \uac83\uc744 \ub418\ub3cc\ub838\uc2b5\ub2c8\ub2e4. \uc9c0\ub3c4 \ud0ed\uc774 \uc8fc\uc720\uc18c \uc9c0\ub3c4(POI)\ub97c \ub744\uc6b0\ub824\ub2e4 CarPlay \ud654\uba74 \uc804\uccb4\ub97c \uba48\ucd94\uac8c \ud588\uace0, \uadf8\ub798\uc11c \uc804\ud654\u00b7\uc6b4\ud589\uae30\ub85d\u00b7\ub0b4\ube44\u00b7AI\ub300\ud654\uae4c\uc9c0 \uc548 \ub098\uc654\uc2b5\ub2c8\ub2e4. \uc9c0\ub3c4 \ud0ed\uc744 \uac80\uc99d\ub41c \ubaa9\ub85d \ud654\uba74\uc73c\ub85c \ub418\ub3cc\ub838\uc2b5\ub2c8\ub2e4 \u2014 \ub0b4 \uc704\uce58 \uc804\uc1a1\u00b7\uae38 \uc548\ub0b4\u00b7\uce5c\uad6c\uc640 \uc57d\uc18d\uc740 \uadf8\ub300\ub85c \uc4f0\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4. \uc8fc\uc720\uc18c \uc9c0\ub3c4\ub294 \uc6d0\uc778\uc774 \ud480\ub9b0 \ub4a4\uc5d0 \ub2e4\uc2dc \uc62c\ub9bd\ub2c8\ub2e4.",
-  "source_sha": "7d634158a396af04c6399b5cf38311c1df3eca6f",
+  "build": 188,
+  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.34-188.ipa",
+  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-188.xml",
+  "notes": "\ucc28 \ud654\uba74 \uc9c0\ub3c4 \ud0ed \ub9e8 \uc704\uc5d0 \u300c\uac00\uae4c\uc6b4 \uc8fc\uc720\uc18c\u300d\uac00 \uc0dd\uacbc\uc2b5\ub2c8\ub2e4. \ucd5c\uadfc \uc8fc\uc720\ud55c \uacf3\uacfc \uac00\uae4c\uc6b4 5\uacf3\uc744 \ube0c\ub79c\ub4dc\u00b7\ub9ac\ud130\ub2f9 \uac00\uaca9\u00b7\uac70\ub9ac\uc640 \ud568\uaed8 \ubcf4\uc5ec\ub4dc\ub9ac\uace0, \ub204\ub974\uba74 \uadf8 \uc8fc\uc720\uc18c\ub85c \uae38 \uc548\ub0b4\uac00 \uc2dc\uc791\ub429\ub2c8\ub2e4. \uac12\uc740 CarPlay \uac00 \ub72c \ub4a4\uc5d0 \ub530\ub85c \ubc1b\uc544\uc624\ubbc0\ub85c \uc870\ud68c\uac00 \ub290\ub824\ub3c4 \ud654\uba74\uc774 \ub2a6\uac8c \ub728\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. \uc9c0\ub3c4 \uadf8\ub9bc(\ud540)\uc740 Apple \uce74\ud14c\uace0\ub9ac \uc2b9\uc778\uc774 \ud544\uc694\ud574 \uc544\uc9c1\uc774\uace0, \uc2e0\uccad \uc900\ube44\ub97c \ub9c8\ucce4\uc2b5\ub2c8\ub2e4.",
+  "source_sha": "0f6b7f5c4b6c47ef126f2dca1fc6bb71b709811b",
   "source_dirty": true,
   "source_dirty_paths": ["ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved", "ios/Runner.xcworkspace/xcshareddata/swiftpm/Package.resolved", "pubspec.yaml"]
 }
