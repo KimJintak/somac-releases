@@ -1,9 +1,9 @@
 {
   "version": "1.0.34",
-  "build": 203,
-  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.34-203.ipa",
-  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-203.xml",
-  "notes": "CarPlay \uc5f0\ub8cc \ud0ed\uc744 POI \uc5c6\uc774 \uc548\uc815\uc801\uc778 \ubaa9\ub85d\uc73c\ub85c \uac1c\uc120: \ucd5c\uadfc \uc8fc\uc720\uc18c\u00b7\uac00\uae4c\uc6b4 5\uacf3\u00b7\ube0c\ub79c\ub4dc\u00b7\uc720\uc885\ubcc4 \ub2e8\uac00\u00b7\uac70\ub9ac\u00b7\uae38 \uc548\ub0b4, \uc704\uce58/\uc870\ud68c/0\uac74 \uc0c1\ud0dc\ub97c \uad6c\ubd84. \ubcc4\ub3c4 SOMAC Fuel \uc2a4\uce90\ud3f4\ub4dc \ud3ec\ud568(\uae30\uc874 SOMAC POI\ub294 \uacc4\uc18d \ube44\ud65c\uc131).",
+  "build": 204,
+  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.34-204.ipa",
+  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-204.xml",
+  "notes": "CarPlay \uc5f0\ub8cc \ud0ed \ud6c4\uc18d: \uac00\uae4c\uc6b4 \uc8fc\uc720\uc18c \uac70\ub9ac\uc21c/\ub2e8\uac00\uc21c(\ub0ae\uc740 \ub2e8\uac00 \uc6b0\uc120) \uc120\ud0dd \ubcf5\uc6d0 \ubc0f \uacf5\uc2dd \uc815\uc720\uc0ac \ub85c\uace0 \ud45c\uc2dc. POI\ub294 \uacc4\uc18d \ube44\ud65c\uc131\uc774\uace0, \uc0c8 SOMAC Fuel \uc571 \ubc30\ud3ec\ub294 \uc544\ub2d8.",
   "source_sha": "dbff38b2484ee714fdab4752fd2bca4be624f525",
   "source_dirty": true,
   "source_dirty_paths": ["ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved", "ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme", "ios/Runner.xcworkspace/xcshareddata/swiftpm/Package.resolved", "ios/Runner/Info.plist", "lib/screens/carplay_preview_screen.dart", "lib/screens/map_tab_screen.dart", "lib/services/carplay_menu.dart", "lib/services/carplay_service.dart", "lib/services/carplay_voice_flow.dart", "lib/services/fuel_panel_logic.dart", "lib/services/fuel_panel_source.dart", "lib/services/fuel_station_merge.dart", "lib/services/opinet_service.dart", "lib/widgets/fuel_station_card.dart", "lib/widgets/fuel_station_panel.dart", "pubspec.yaml", "assets/fuel_logos/", "lib/fuel_app/", "lib/main_fuel.dart"]
