@@ -1,9 +1,9 @@
 {
   "version": "1.0.34",
-  "build": 192,
-  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.34-192.ipa",
-  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-192.xml",
-  "notes": "\ub0b4\ube44 \uc5f0\ub8cc \ubd80\uc871 \uc0ac\uc804 \uacbd\uace0 \ubc0f \uacbd\ub85c \uc911\uac04 \uc624\ud53c\ub137 \uc800\uac00 \uc8fc\uc720\uc18c \ucd94\ucc9c: \uc794\uc5ec\uac70\ub9ac/\ubaa9\uc801\uc9c0 \uac70\ub9ac \ube44\uad50, \ucc28\ub7c9 \uc720\uc885 \ub2e8\uac00\uc21c",
+  "build": 193,
+  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.34-193.ipa",
+  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-193.xml",
+  "notes": "\uc9c0\ub3c4 \uc624\ub978\ucabd \uc815\uc720\uc0ac \ud544\ud130 \ucd94\uac00: \uc120\ud0dd \uc2dc \uce74\ub4dc\uc640 \uc9c0\ub3c4 \ud540 \ub3d9\uc2dc \ud544\ud130\ub9c1, \ub2e8\uac00\uc21c\uc740 \ub0ae\uc740 \uac00\uaca9 \uc6b0\uc120",
   "source_sha": "dbff38b2484ee714fdab4752fd2bca4be624f525",
   "source_dirty": true,
   "source_dirty_paths": ["ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved", "ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme", "ios/Runner.xcworkspace/xcshareddata/swiftpm/Package.resolved", "lib/screens/carplay_preview_screen.dart", "lib/screens/map_tab_screen.dart", "lib/services/carplay_menu.dart", "lib/services/carplay_service.dart", "lib/services/carplay_voice_flow.dart", "lib/services/fuel_panel_logic.dart", "lib/services/fuel_panel_source.dart", "lib/services/fuel_station_merge.dart", "lib/services/opinet_service.dart", "lib/widgets/fuel_station_card.dart", "lib/widgets/fuel_station_panel.dart", "pubspec.yaml", "assets/fuel_logos/"]
