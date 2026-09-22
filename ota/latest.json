@@ -1,10 +1,10 @@
 {
   "version": "1.0.34",
-  "build": 188,
-  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.34-188.ipa",
-  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-188.xml",
-  "notes": "\ucc28 \ud654\uba74 \uc9c0\ub3c4 \ud0ed \ub9e8 \uc704\uc5d0 \u300c\uac00\uae4c\uc6b4 \uc8fc\uc720\uc18c\u300d\uac00 \uc0dd\uacbc\uc2b5\ub2c8\ub2e4. \ucd5c\uadfc \uc8fc\uc720\ud55c \uacf3\uacfc \uac00\uae4c\uc6b4 5\uacf3\uc744 \ube0c\ub79c\ub4dc\u00b7\ub9ac\ud130\ub2f9 \uac00\uaca9\u00b7\uac70\ub9ac\uc640 \ud568\uaed8 \ubcf4\uc5ec\ub4dc\ub9ac\uace0, \ub204\ub974\uba74 \uadf8 \uc8fc\uc720\uc18c\ub85c \uae38 \uc548\ub0b4\uac00 \uc2dc\uc791\ub429\ub2c8\ub2e4. \uac12\uc740 CarPlay \uac00 \ub72c \ub4a4\uc5d0 \ub530\ub85c \ubc1b\uc544\uc624\ubbc0\ub85c \uc870\ud68c\uac00 \ub290\ub824\ub3c4 \ud654\uba74\uc774 \ub2a6\uac8c \ub728\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. \uc9c0\ub3c4 \uadf8\ub9bc(\ud540)\uc740 Apple \uce74\ud14c\uace0\ub9ac \uc2b9\uc778\uc774 \ud544\uc694\ud574 \uc544\uc9c1\uc774\uace0, \uc2e0\uccad \uc900\ube44\ub97c \ub9c8\ucce4\uc2b5\ub2c8\ub2e4.",
-  "source_sha": "0f6b7f5c4b6c47ef126f2dca1fc6bb71b709811b",
+  "build": 189,
+  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.34-189.ipa",
+  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-189.xml",
+  "notes": "\uc5f0\ub8cc \uc9c0\ub3c4 \uc8fc\uc720\uc18c \ud45c\uc2dc \uac1c\uc120: \uc624\ud53c\ub137 \uc2e4\uc2dc\uac04 \uc815\ubcf4, \uc815\uc720\uc0ac \ub85c\uace0/\uc8fc\uc720\uc18c\uba85 \ub9d0\ud48d\uc120, \uac70\ub9ac\uc21c\u00b7\ub2e8\uac00\uc21c \uc815\ub82c, 5km \ubc18\uacbd \ub0b4 \uc804\uccb4 \uc8fc\uc720\uc18c \ud45c\uc2dc",
+  "source_sha": "dbff38b2484ee714fdab4752fd2bca4be624f525",
   "source_dirty": true,
-  "source_dirty_paths": ["ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved", "ios/Runner.xcworkspace/xcshareddata/swiftpm/Package.resolved", "pubspec.yaml"]
+  "source_dirty_paths": ["ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved", "ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme", "ios/Runner.xcworkspace/xcshareddata/swiftpm/Package.resolved", "lib/screens/carplay_preview_screen.dart", "lib/screens/map_tab_screen.dart", "lib/services/carplay_menu.dart", "lib/services/carplay_service.dart", "lib/services/fuel_panel_logic.dart", "lib/services/fuel_panel_source.dart", "lib/services/fuel_station_merge.dart", "lib/services/opinet_service.dart", "lib/widgets/fuel_station_card.dart", "lib/widgets/fuel_station_panel.dart", "pubspec.yaml", "assets/fuel_logos/"]
 }
