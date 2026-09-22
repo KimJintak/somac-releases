@@ -1,9 +1,9 @@
 {
   "version": "1.0.34",
-  "build": 198,
-  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.34-198.ipa",
-  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-198.xml",
-  "notes": "\uc67c\ucabd \uac00\uae4c\uc6b4 \uc8fc\uc720\uc18c \uce74\ub4dc \uc815\uc720\uc0ac SVG \ub85c\uace0 \uc801\uc6a9",
+  "build": 199,
+  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.34-199.ipa",
+  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-199.xml",
+  "notes": "\uc624\ud53c\ub137 \uacf5\uc2dd \uc815\uc720\uc0ac \ub85c\uace0 \uc6d0\ubcf8 \uc801\uc6a9: SK GS HD\ud604\ub300\uc624\uc77c\ubc45\ud06c S-OIL \uc54c\ub730 EX-OIL NH-OIL",
   "source_sha": "dbff38b2484ee714fdab4752fd2bca4be624f525",
   "source_dirty": true,
   "source_dirty_paths": ["ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved", "ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme", "ios/Runner.xcworkspace/xcshareddata/swiftpm/Package.resolved", "lib/screens/carplay_preview_screen.dart", "lib/screens/map_tab_screen.dart", "lib/services/carplay_menu.dart", "lib/services/carplay_service.dart", "lib/services/carplay_voice_flow.dart", "lib/services/fuel_panel_logic.dart", "lib/services/fuel_panel_source.dart", "lib/services/fuel_station_merge.dart", "lib/services/opinet_service.dart", "lib/widgets/fuel_station_card.dart", "lib/widgets/fuel_station_panel.dart", "pubspec.yaml", "assets/fuel_logos/"]
