@@ -1,10 +1,10 @@
 {
   "version": "1.0.34",
-  "build": 208,
-  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.34-208.ipa",
-  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-208.xml",
-  "notes": "CarPlay \uc2dc\ubbac\ub808\uc774\ud130 arm64 \ube4c\ub4dc \ud638\ud658\uc131 \uc218\uc815, \uc9e7\uc740 \uc139\uc158 \uc778\ub371\uc2a4, \uc8fc\uc720\uc18c \uae38\uc548\ub0b4 \uc571 \uc120\ud0dd \ubc0f \uc5f0\ub8cc \ud654\uba74 \uac1c\uc120",
-  "source_sha": "dbff38b2484ee714fdab4752fd2bca4be624f525",
+  "build": 209,
+  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.34-209.ipa",
+  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-209.xml",
+  "notes": "\ucc28 \ud654\uba74\uc5d0\uc11c \uc8fc\uc720\uc18c\ub97c \ub204\ub974\uba74 \ub9e8 \uc704\uc5d0 \u300c\u26fd \ubc14\ub85c\uc8fc\uc720 \uc8fc\ubb38\u300d\uc774 \ub739\ub2c8\ub2e4. \uae08\uc561\uc744 \uace0\ub974\uba74 \uc8fc\ubb38\uc774 \ub9cc\ub4e4\uc5b4\uc9c0\uace0, \uc8fc\uc720\uae30 \uc55e\uc5d0 \uc11c\uba74 \ucc28\ub7c9\ubc88\ud638\ub85c \ud655\uc778\ud569\ub2c8\ub2e4. \uadf8 \uc544\ub798 \uae38\uc548\ub0b4 \uc571 \uc120\ud0dd(\ub124\uc774\ubc84\u00b7\uce74\uce74\uc624\u00b7\ud2f0\ub9f5\u00b7\uad6c\uae00)\uc740 \uadf8\ub300\ub85c\uc785\ub2c8\ub2e4. \ucc28\ub7c9\ubc88\ud638\ub098 \uc720\uc885\uc774 \ub4f1\ub85d\ub3fc \uc788\uc9c0 \uc54a\uc73c\uba74 \uc8fc\ubb38\uc744 \ub9cc\ub4e4\uc9c0 \uc54a\uace0 \ubb34\uc5c7\uc744 \ub4f1\ub85d\ud574\uc57c \ud558\ub294\uc9c0 \uc54c\ub824\ub4dc\ub9bd\ub2c8\ub2e4.",
+  "source_sha": "e937881da40b1eee0fe10b6bc67baa218dbac9c4",
   "source_dirty": true,
-  "source_dirty_paths": ["ios/Podfile", "ios/Podfile.lock", "ios/Runner.xcodeproj/project.pbxproj", "ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved", "ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme", "ios/Runner.xcworkspace/xcshareddata/swiftpm/Package.resolved", "ios/Runner/Info.plist", "ios/SOMEKShare/ShareViewController.swift", "lib/screens/carplay_preview_screen.dart", "lib/screens/health_screen.dart", "lib/screens/map_tab_screen.dart", "lib/screens/vehicle_screen.dart", "lib/services/carplay_menu.dart", "lib/services/carplay_service.dart", "lib/services/carplay_voice_flow.dart", "lib/services/fuel_panel_logic.dart", "lib/services/fuel_panel_source.dart", "lib/services/fuel_station_merge.dart", "lib/services/healthkit_service.dart", "lib/services/navi_service.dart", "lib/services/opinet_service.dart", "lib/widgets/fuel_station_card.dart", "lib/widgets/fuel_station_panel.dart", "pubspec.lock", "pubspec.yaml", "assets/fuel_logos/", "lib/fuel_app/", "lib/main_fuel.dart", "packages/flutter_carplay/"]
+  "source_dirty_paths": ["lib/screens/health_screen.dart", "lib/services/healthkit_service.dart", "pubspec.yaml", "lib/fuel_app/", "lib/main_fuel.dart"]
 }
