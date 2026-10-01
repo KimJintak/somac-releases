@@ -1,10 +1,10 @@
 {
-  "version": "1.0.41",
-  "build": 221,
-  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.41-221.ipa",
-  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-221.xml",
+  "version": "1.0.42",
+  "build": 222,
+  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.42-222.ipa",
+  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-222.xml",
   "notes": "HA \uc2dc\ubbac\ub808\uc774\ud130\u00b7SafePath\u00b7\uc774\ub3d9/CarPlay \uac1c\uc120, \ucc28\ub7c9 \uc5f0\ub8cc \uc9c0\ub3c4 \ubc0f \uc18c\ub9e5\uc8fc\uc720 \uc8fc\ubb38",
-  "source_sha": "ae2de27a1942897120cbd43b1935c84854a60c66",
+  "source_sha": "6fe128a4f3b72950facc8d5c123aaa22df3c804f",
   "source_dirty": false,
   "source_dirty_paths": []
 }
