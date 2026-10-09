@@ -1,10 +1,10 @@
 {
-  "version": "1.0.55",
-  "build": 240,
-  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.55-240.ipa",
-  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-240.xml",
-  "notes": "1.0.55 (240) \u2014 \ud68c\uc758\ub85d \ub0b4\ubcf4\ub0b4\uae30 \u00b7 \uae34 \ud68c\uc758\ub85d PDF \uc218\ub9ac\n\u00b7 \ubbf8\ud305/\ud68c\uc758\ub85d: \ubcf4\ub0b4\uae30\u00b7\uc800\uc7a5\uc5d0 Word(.docx)\u00b7\ud55c\uae00(.hwpx) \ucd94\uac00(Markdown\u00b7PDF \ud3ec\ud568 4\uac00\uc9c0)\n\u00b7 \ubbf8\ud305/\ud68c\uc758\ub85d: \uae34 \ud68c\uc758\ub85d\uc774 PDF \ub85c \ub9cc\ub4e4\uc5b4\uc9c0\uc9c0 \uc54a\ub358 \ubb38\uc81c\ub97c \uace0\ucce4\uc2b5\ub2c8\ub2e4(\uc5ec\ub7ec \ucabd\uc73c\ub85c \ub098\ub269\ub2c8\ub2e4)\n\u00b7 \ubbf8\ud305/\ud68c\uc758\ub85d: \ud560 \uc77c \ud45c\uc2dc\uac00 \uae68\uc9c0\uc9c0 \uc54a\uac8c(\u25a1 \u00b7 \uc644\ub8cc/\ubbf8\uc644) \u00b7 \uc800\uc7a5 \uc704\uce58 \uc548\ub0b4\ub97c \uc2e4\uc81c\ub300\ub85c(\uae30\uae30\ub9cc/\uae30\uae30\uff0b\uc11c\ubc84)\n\u00b7 \uac00\uacc4\ubd80 \uacf5\uacfc\uae08: \u00ab\ubbf8\ub0a9/\uc784\ubc15\u00bb \uc804\uae30 \uae08\uc561\uc774 \uc544\ub798 \ud569\uacc4\uc640 \uac19\uac8c\n\u00b7 \ud55c\uc804 \uc6b0\ub9ac \ub3d9\ub124 \ud3c9\uade0: \ub85c\uadf8\uc778\ud558\uc9c0 \uc54a\uc558\uc744 \ub54c \uc548\ub0b4 \ubb38\uad6c \uc815\ub9ac",
-  "source_sha": "3e8dac24dfcda4e242e9dbbac25a5b16aa73dcc9",
+  "version": "1.0.58",
+  "build": 243,
+  "ipa_url": "https://github.com/KimJintak/somac-releases/releases/download/ota-ios/somac-1.0.58-243.ipa",
+  "ios_url": "itms-services://?action=download-manifest&url=https://kimjintak.github.io/somac-releases/ota/manifest-243.xml",
+  "notes": "WBS 9 \uc774\ub3d9\u00b7\ucc28\ub7c9\u00b7CarPlay\u00b7\ub300\uc911\uad50\ud1b5 \ud1b5\ud569 \uc2e4\uae30 \uac80\uc99d\ud310. DB\u00b7\ud568\uc218\u00b7D-7b SQL \ubbf8\uc801\uc6a9.",
+  "source_sha": "763f3b88261bd25a3fc6721639ff736193b13d57",
   "source_dirty": false,
   "source_dirty_paths": []
 }
